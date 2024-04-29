@@ -1,0 +1,7 @@
+print("pkg install test!") 
+input = input("spammy spammy time??? Y/N")
+
+if input == Y or y:
+    print("spammy spammy")
+else:
+    print("thats a no")
